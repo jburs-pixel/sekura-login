@@ -1,11 +1,11 @@
-import Link from "next/link";
+import { notFound } from "next/navigation";
 import { isLocale } from "@/lib/i18n/config";
 import { t } from "@/lib/i18n/dict";
-import { notFound } from "next/navigation";
+import { PLATFORM_URL } from "@/lib/platform";
 
 /**
- * Home placeholder. El contenido real (hero, secciones, etc.) viene en el
- * paso 4. Por ahora solo confirma que el routing y el i18n funcionan.
+ * Home placeholder con header + footer reales del layout. El contenido del
+ * cuerpo (hero, secciones, etc.) se construye en el paso 4.
  */
 export default async function HomePage({
   params,
@@ -15,44 +15,34 @@ export default async function HomePage({
   const { locale } = await params;
   if (!isLocale(locale)) notFound();
 
-  const otherLocale = locale === "es" ? "pt" : "es";
-  const otherLabel = locale === "es" ? "Português" : "Español";
-
   return (
-    <main className="flex min-h-screen items-center justify-center px-6">
-      <div className="max-w-md text-center">
-        <p className="text-xs uppercase tracking-widest text-zinc-400">
+    <main className="mx-auto max-w-6xl px-5 py-24 sm:px-8 sm:py-32">
+      <div className="max-w-2xl">
+        <p className="text-xs font-medium uppercase tracking-widest text-brand-700">
           Sekura
         </p>
-        <h1 className="mt-2 text-2xl font-semibold tracking-tight text-zinc-900">
+        <h1 className="mt-3 text-4xl font-semibold tracking-tight text-foreground sm:text-5xl">
           {t("home.hero_title", locale)}
         </h1>
-        <p className="mt-3 text-sm text-zinc-600">
+        <p className="mt-5 text-lg leading-relaxed text-muted">
           {t("home.hero_subtitle", locale)}
         </p>
 
-        <div className="mt-8 flex items-center justify-center gap-3 text-sm">
+        <div className="mt-8 flex flex-wrap items-center gap-3">
           <button
             type="button"
-            className="rounded-lg bg-zinc-900 px-4 py-2 text-white"
             disabled
+            className="inline-flex items-center justify-center rounded-md bg-brand-700 px-5 py-3 text-sm font-medium text-surface shadow-sm hover:bg-brand-800 disabled:opacity-60"
           >
             {t("common.request_demo", locale)}
           </button>
           <a
-            href="https://sekuramonitoreo.netlify.app/"
-            className="rounded-lg border border-zinc-300 px-4 py-2 text-zinc-700 hover:bg-zinc-50"
+            href={PLATFORM_URL}
+            className="inline-flex items-center justify-center rounded-md border border-border bg-surface px-5 py-3 text-sm font-medium text-foreground hover:border-brand-700 hover:text-brand-700"
           >
             {t("common.login", locale)}
           </a>
         </div>
-
-        <p className="mt-10 text-xs text-zinc-400">
-          {t("common.language", locale)}:{" "}
-          <Link href={`/${otherLocale}`} className="underline">
-            {otherLabel}
-          </Link>
-        </p>
       </div>
     </main>
   );

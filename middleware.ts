@@ -34,6 +34,7 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-  // Aplicar a todo excepto: _next (assets de Next), api, archivos con extensión.
-  matcher: ["/((?!_next/static|_next/image|api|favicon.ico|.*\\..*).*)"],
+  // Aplicar a todo excepto: assets de Next, api, archivos con extensión, y la
+  // sub-app /monitoreo/ (prototipo embebido — sirve sus propios HTML/PNG).
+  matcher: ["/((?!_next/static|_next/image|api|favicon.ico|monitoreo|.*\\..*).*)"],
 };

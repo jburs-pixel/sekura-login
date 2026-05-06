@@ -4,6 +4,16 @@
     "request_demo": "Pedir demo",
     "language": "Idioma"
   },
+  "header": {
+    "skip_to_content": "Ir al contenido"
+  },
+  "footer": {
+    "tagline": "Monitoreo de producción de granos para tu cartera de crédito.",
+    "rights": "Todos los derechos reservados.",
+    "contact": "Contacto",
+    "platform": "Plataforma",
+    "language": "Idioma"
+  },
   "home": {
     "hero_title": "Sekura — placeholder",
     "hero_subtitle": "Pronto: contenido real."

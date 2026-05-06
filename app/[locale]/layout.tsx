@@ -1,9 +1,10 @@
 import { notFound } from "next/navigation";
+import { Footer } from "@/components/layout/Footer";
+import { Header } from "@/components/layout/Header";
 import { isLocale } from "@/lib/i18n/config";
 
 /**
- * Layout localizado. Validamos el segmento [locale] antes de renderizar.
- * No agrega <html>/<body> (eso vive en app/layout.tsx).
+ * Layout localizado. Wrapping con header/footer fijo + main central.
  */
 export default async function LocaleLayout({
   children,
@@ -15,10 +16,17 @@ export default async function LocaleLayout({
   const { locale } = await params;
   if (!isLocale(locale)) notFound();
 
-  return <>{children}</>;
+  return (
+    <>
+      <Header locale={locale} />
+      <div id="main" className="flex-1">
+        {children}
+      </div>
+      <Footer locale={locale} />
+    </>
+  );
 }
 
-// SSG: pre-genera /es y /pt en build.
 export function generateStaticParams() {
   return [{ locale: "es" }, { locale: "pt" }];
 }
