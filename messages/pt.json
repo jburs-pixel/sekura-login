@@ -1,0 +1,16 @@
+{
+  "common": {
+    "login": "Entrar",
+    "request_demo": "Pedir demo",
+    "language": "Idioma"
+  },
+  "home": {
+    "hero_title": "Sekura — placeholder",
+    "hero_subtitle": "Em breve: conteúdo real."
+  },
+  "not_found": {
+    "title": "Página não encontrada",
+    "description": "O link que você seguiu não existe ou expirou.",
+    "back_home": "Voltar ao início"
+  }
+}
