@@ -1,0 +1,151 @@
+car,owner,cpf_cnpj,muni,uf,region,ha,status,risk
+19-01-0008-379-923,Patricia Cáceres,909862-4,Loma Plata,19,chaco,700.94,watch,56
+15-02-0007-661-373,Silvio Benítez,127722-0,Benjamín Aceval,15,chaco,306.03,ok,25
+09-01-0090-227-157,Jorge Benítez,8058925-8,Paraguarí,9,central,460.42,ok,14
+02-05-0047-628-883,Sociedad Rural Estancia Salto SA,5003691-5,Choré,2,oriente,365.25,ok,15
+10-14-0098-247-922,Cynthia Espinoza,4544432-8,Santa Rita,10,oriente,525.8,watch,42
+07-08-0047-828-324,Agropecuaria Mboi Cua S.R.L.,7594929-9,Hohenau,7,oriente,10866.87,ok,25
+19-01-0075-334-430,Estancia Estancia Tacuara SRL,781137-9,Loma Plata,19,chaco,431.96,ok,24
+10-14-0005-565-267,Luis Espinoza,809969-3,Santa Rita,10,oriente,2497.58,ok,24
+10-14-0079-290-331,Mirta Loewen,863878-2,Santa Rita,10,oriente,1211.85,ok,21
+10-11-0001-524-679,Estela Villalba,3748969-1,Naranjal,10,oriente,22269.43,ok,19
+15-03-0028-951-625,Granja Mboi Cua S.A.,179706-2,Pozo Colorado,15,chaco,1335.93,ok,23
+14-13-0077-485-734,Lorena Wiens,5503758-9,Katueté,14,oriente,1960.24,ok,24
+10-07-0037-744-850,Campos Bella Unión S.R.L.,6938011-8,Hernandarias,10,oriente,1707.57,ok,26
+14-07-0016-943-081,Mirta Klassen,3333952-1,La Paloma,14,oriente,1860.51,watch,54
+10-14-0019-055-687,Edgar Britez,8460810-6,Santa Rita,10,oriente,218.83,watch,39
+04-02-0001-122-025,Cabaña San Isidro Agropecuaria S.A.,8772934-3,Borja,4,central,2113.79,watch,36
+19-03-0060-286-015,Gustavo Britez,168739-7,Mariscal Estigarribia,19,chaco,6548.98,ok,10
+19-02-0080-574-527,Establecimiento Filadelfia Norte S.R.L.,7142241-0,Filadelfia,19,chaco,362.11,ok,8
+16-01-0007-658-271,Adriana Aquino,6637239-5,Fuerte Olimpo,16,chaco,3137.97,ok,12
+05-02-0033-006-339,Marta Riveros,648422-9,Caaguazú,5,oriente,2381.24,ok,10
+14-01-0029-769-591,Estela Frutos,7947284-6,Salto del Guairá,14,oriente,353.38,ok,17
+07-08-0095-119-098,Norma Friesen,0120455-6,Hohenau,7,oriente,7396.61,ok,4
+15-03-0074-458-201,Edgar Talavera,227846-9,Pozo Colorado,15,chaco,536.26,ok,25
+15-01-0025-026-738,Norma Riveros,571732-0,Villa Hayes,15,chaco,12054.25,ok,25
+10-01-0079-201-193,Campos Caaguazú Verde S.R.L.,027261-4,Ciudad del Este,10,oriente,523.14,ok,26
+10-11-0086-895-347,Granja Estancia Salto SA,450899-3,Naranjal,10,oriente,1907.66,watch,43
+19-02-0067-081-536,Edgar Insfrán,1971284-7,Filadelfia,19,chaco,2986.45,ok,23
+07-03-0090-502-195,Carlos Riveros,2407784-8,Bella Vista,7,oriente,1632.88,ok,14
+13-01-0079-030-884,Estancia Estancia Tacuara SA,9797296-5,Pedro Juan Caballero,13,oriente,2193.22,breach,72
+10-06-0053-267-160,Edgar Fernández,5783174-5,Iruña,10,oriente,600.18,watch,57
+07-03-0039-257-576,Sociedad Rural San Rafael SA,672885-7,Bella Vista,7,oriente,2762.4,ok,5
+09-14-0098-993-016,Hacienda San Joaquín SRL,7722330-6,Quiindy,9,central,24153.37,ok,21
+05-02-0090-605-263,Estancia Mboi Cua SA,3109678-9,Caaguazú,5,oriente,194.78,watch,30
+03-13-0078-306-340,Cooperativa Agrícola Mboi Cua SA,205020-9,San Bernardino,3,central,8833.53,ok,5
+14-01-0058-424-172,Establecimiento Loma Plata Sur S.R.L.,4964759-8,Salto del Guairá,14,oriente,92.01,watch,51
+05-15-0022-225-851,Óscar Riveros,413797-7,Yhú,5,oriente,871.15,ok,24
+02-08-0073-375-627,Walter Fernández,1269448-6,Lima,2,oriente,433.91,watch,43
+07-01-0014-510-204,Silvio Frutos,618914-1,Encarnación,7,oriente,2078.12,watch,36
+10-07-0050-244-524,Norma Wiens,571983-8,Hernandarias,10,oriente,6893.52,ok,21
+10-11-0047-398-481,Ramón Klassen,3145303-8,Naranjal,10,oriente,7348.54,ok,20
+11-01-0067-784-646,Aldo Villalba,388608-6,Areguá,11,central,11227.46,ok,28
+10-14-0006-699-907,Establecimiento Caaguazú Verde S.A.,157399-3,Santa Rita,10,oriente,2340.27,breach,88
+07-03-0020-973-093,Estancia San Rafael SRL,5300119-7,Bella Vista,7,oriente,2912.77,watch,58
+10-08-0082-828-951,Campos San Joaquín S.R.L.,7169472-2,Minga Guazú,10,oriente,1799.42,ok,27
+07-04-0034-228-380,Ramón Ovelar,0127961-1,Capitán Miranda,7,oriente,99.63,ok,12
+14-01-0036-599-123,Campos Mboi Cua S.R.L.,313650-2,Salto del Guairá,14,oriente,1061.87,breach,94
+05-12-0097-527-144,Campos San Isidro S.A.,658039-2,Repatriación,5,oriente,940.38,breach,73
+19-03-0060-677-959,Marta Espinoza,692124-4,Mariscal Estigarribia,19,chaco,315.79,breach,91
+10-11-0096-670-019,Establecimiento Don Carlos S.A.,9717751-7,Naranjal,10,oriente,294.42,ok,0
+10-08-0066-529-716,Estancia Estancia Tacuara Soc. Rural Ltda,7038430-9,Minga Guazú,10,oriente,168.13,ok,7
+07-02-0074-607-165,Cynthia Insfrán,3926030-2,Carlos Antonio López,7,oriente,346.57,breach,73
+19-02-0010-586-746,Marta Aquino,3917410-1,Filadelfia,19,chaco,311.86,breach,73
+10-11-0035-423-193,Mirta Friesen,638944-8,Naranjal,10,oriente,3503.24,ok,20
+15-03-0057-250-948,Walter Espinoza,426258-2,Pozo Colorado,15,chaco,853.4,watch,50
+19-02-0028-679-178,Carlos Klassen,9656666-8,Filadelfia,19,chaco,957.63,ok,11
+07-04-0065-302-349,Aldo Riveros,426818-1,Capitán Miranda,7,oriente,21650.02,breach,80
+19-02-0016-543-098,Cynthia Frutos,456083-3,Filadelfia,19,chaco,2239.19,breach,96
+14-13-0006-718-869,Hacienda Bella Unión S.A.,0618091-9,Katueté,14,oriente,562.58,ok,25
+10-07-0005-090-076,Patricia Acosta,861207-5,Hernandarias,10,oriente,492.99,ok,18
+10-14-0070-482-186,Hacienda San Joaquín S.A.,512046-1,Santa Rita,10,oriente,517.6,watch,56
+11-01-0054-953-889,Edgar Acosta,0961055-6,Areguá,11,central,480.6,watch,57
+19-02-0081-052-927,Ramón Aquino,0790320-2,Filadelfia,19,chaco,2108.02,ok,5
+15-02-0017-030-483,Edgar Klassen,149587-0,Benjamín Aceval,15,chaco,2777.51,ok,2
+09-01-0043-460-556,Óscar Frutos,639264-9,Paraguarí,9,central,419.29,ok,21
+19-03-0099-200-533,Granja Yatay Sur S.R.L.,4149673-9,Mariscal Estigarribia,19,chaco,1911.53,ok,17
+15-03-0014-534-785,Óscar Acosta,409157-0,Pozo Colorado,15,chaco,1193.71,ok,9
+07-01-0014-269-633,Granja Tres Cerros SA,780068-1,Encarnación,7,oriente,420.51,breach,83
+15-03-0039-222-538,Norma Loewen,461735-7,Pozo Colorado,15,chaco,813.24,watch,54
+05-15-0067-881-932,Cabaña Estancia Salto Agropecuaria S.A.,366210-3,Yhú,5,oriente,1397.61,ok,3
+19-02-0056-414-865,Jorge Friesen,569087-7,Filadelfia,19,chaco,6967.52,ok,7
+10-06-0021-426-557,Norma Insfrán,1583281-8,Iruña,10,oriente,774.7,ok,6
+11-01-0043-474-803,Hugo Loewen,7702727-8,Areguá,11,central,7602.84,ok,16
+19-02-0042-124-701,Marta Acosta,9931365-6,Filadelfia,19,chaco,860.93,watch,55
+15-01-0059-429-176,Hugo Loewen,090421-7,Villa Hayes,15,chaco,3709.19,ok,5
+11-07-0065-564-332,Cabaña San Joaquín Agropecuaria S.A.,034414-4,Itauguá,11,central,3126.1,ok,12
+07-02-0022-995-980,Cooperativa Agrícola San Joaquín Agropecuaria S.A.,7043581-1,Carlos Antonio López,7,oriente,5432.63,watch,36
+03-11-0024-798-600,Patricia Penner,827718-1,Piribebuy,3,central,19833.94,ok,13
+10-07-0097-504-329,Jorge Aquino,028772-1,Hernandarias,10,oriente,584.48,ok,7
+19-01-0058-392-695,Lorena Klassen,6742860-4,Loma Plata,19,chaco,1607.48,breach,70
+16-01-0064-868-749,Patricia Brizuela,6532690-9,Fuerte Olimpo,16,chaco,340.9,ok,17
+07-01-0056-910-704,Campos Estancia Tacuara SA,447898-5,Encarnación,7,oriente,13826.46,breach,86
+02-08-0088-985-320,Hacienda Tata Yupi Soc. Rural Ltda,371837-6,Lima,2,oriente,10696.39,watch,53
+11-01-0012-585-410,Hacienda San Joaquín SRL,459334-4,Areguá,11,central,1013.13,ok,10
+10-07-0078-938-710,Gustavo Aquino,699586-6,Hernandarias,10,oriente,4004.78,breach,82
+11-01-0034-088-409,Campos Bella Unión SRL,517908-6,Areguá,11,central,2070.27,ok,4
+15-02-0004-348-385,Lorena Brizuela,395512-4,Benjamín Aceval,15,chaco,2200.57,ok,12
+07-04-0053-056-892,Agropecuaria San Rafael SA,738168-4,Capitán Miranda,7,oriente,3255.51,ok,13
+03-01-0068-725-394,Establecimiento Estancia Salto SA,5211175-1,Caacupé,3,central,7863.55,watch,35
+19-03-0074-752-340,Cooperativa Agrícola Filadelfia Norte Agropecuaria S.A.,580778-7,Mariscal Estigarribia,19,chaco,2425.1,watch,39
+11-01-0024-326-860,Cooperativa Agrícola San Isidro S.A.,925188-1,Areguá,11,central,6498.94,watch,58
+15-03-0025-035-025,Carlos Fernández,817534-4,Pozo Colorado,15,chaco,708.08,ok,28
+10-07-0035-856-395,Hacienda Yatay Sur Soc. Rural Ltda,552166-7,Hernandarias,10,oriente,1508.67,ok,28
+19-03-0034-979-833,Walter Friesen,140665-0,Mariscal Estigarribia,19,chaco,309.1,ok,6
+05-01-0067-431-380,Lorena Mendoza,172980-6,Coronel Oviedo,5,oriente,6337.04,ok,25
+08-01-0015-688-424,Edgar Wiens,314659-1,San Juan Bautista,8,central,1261.78,ok,19
+06-11-0035-562-456,Sociedad Rural San Isidro Agropecuaria S.A.,005577-8,Yegros,6,oriente,573.21,ok,18
+07-03-0003-693-005,Hacienda Bella Unión SA,835058-3,Bella Vista,7,oriente,1072.76,watch,41
+15-02-0034-802-718,Campos San Pedro Soc. Rural Ltda,929275-2,Benjamín Aceval,15,chaco,174.02,ok,1
+15-02-0090-940-682,Aldo Insfrán,329456-2,Benjamín Aceval,15,chaco,2235.5,ok,15
+01-02-0046-691-470,Hugo Wiens,928861-9,Horqueta,1,central,4848.91,ok,25
+10-08-0033-486-719,Estancia Tres Cerros Soc. Rural Ltda,016761-8,Minga Guazú,10,oriente,441.5,watch,39
+09-14-0015-758-056,Cabaña Estancia Salto Agropecuaria S.A.,703352-1,Quiindy,9,central,402.92,ok,26
+04-02-0094-788-985,Sociedad Rural Loma Plata Sur Agropecuaria S.A.,222064-4,Borja,4,central,1790.26,ok,4
+05-12-0026-795-743,Cabaña La Esperanza SA,3973598-9,Repatriación,5,oriente,13001.02,ok,21
+12-01-0076-676-488,Silvio Ramírez,7780973-3,Pilar,12,central,1439.56,watch,30
+10-07-0014-129-500,Agropecuaria Tata Yupi SRL,1950052-8,Hernandarias,10,oriente,590.47,watch,54
+07-03-0035-129-733,Hacienda Mboi Cua S.R.L.,208021-4,Bella Vista,7,oriente,615.59,ok,0
+15-02-0011-862-471,Cynthia Acosta,5460158-5,Benjamín Aceval,15,chaco,4094.77,ok,17
+09-14-0084-968-009,Óscar Benítez,2043940-7,Quiindy,9,central,423.39,watch,59
+14-01-0011-313-216,Lorena Aquino,009968-8,Salto del Guairá,14,oriente,7469.51,ok,13
+12-01-0051-627-962,Hacienda San Rafael Soc. Rural Ltda,7366096-5,Pilar,12,central,5765.93,ok,28
+10-11-0082-808-226,Mirta Loewen,7907141-6,Naranjal,10,oriente,1036.87,ok,11
+06-11-0023-662-622,Cabaña San Isidro Soc. Rural Ltda,7775478-1,Yegros,6,oriente,225.92,watch,58
+19-01-0084-684-536,Aldo Ramírez,505061-3,Loma Plata,19,chaco,1888.35,breach,73
+05-15-0048-194-422,Carlos Insfrán,4064930-8,Yhú,5,oriente,4904.09,ok,22
+10-11-0020-192-162,Carlos Mendoza,723184-3,Naranjal,10,oriente,1962.88,ok,7
+11-01-0097-265-562,Agropecuaria Filadelfia Norte S.A.,0538338-8,Areguá,11,central,1986.85,ok,22
+16-01-0073-135-096,Edgar Talavera,9545381-7,Fuerte Olimpo,16,chaco,7558.29,ok,14
+10-08-0058-802-717,Estela Brizuela,4495621-3,Minga Guazú,10,oriente,9704.74,ok,25
+10-07-0016-376-729,Jorge Ramírez,323098-2,Hernandarias,10,oriente,670.99,breach,80
+15-02-0004-294-497,Norma Britez,0792904-9,Benjamín Aceval,15,chaco,342.91,breach,81
+15-03-0099-893-101,Estancia San Rafael Agropecuaria S.A.,357845-2,Pozo Colorado,15,chaco,7659.13,watch,34
+05-02-0002-230-259,Mirta Wiens,6800722-9,Caaguazú,5,oriente,2391.71,watch,52
+03-11-0039-228-220,Granja San Pedro Soc. Rural Ltda,490824-0,Piribebuy,3,central,2619.36,watch,52
+09-01-0065-990-469,Granja Tata Yupi S.A.,579812-3,Paraguarí,9,central,1953.69,ok,16
+14-13-0074-703-235,Hacienda La Trinidad SRL,5564729-2,Katueté,14,oriente,6464.49,watch,47
+03-11-0078-247-577,Gustavo Brizuela,5585566-5,Piribebuy,3,central,1312.62,ok,23
+12-01-0073-628-237,Campos San Isidro SRL,220994-9,Pilar,12,central,1038.73,ok,2
+10-11-0025-006-727,Agropecuaria La Trinidad SRL,7314986-4,Naranjal,10,oriente,2539.13,ok,16
+01-01-0048-920-389,Adriana Britez,795014-5,Concepción,1,central,6671.43,watch,32
+14-02-0038-688-069,Establecimiento Yatay Sur SRL,290878-1,Curuguaty,14,oriente,182.66,ok,10
+19-01-0088-834-611,Hacienda Loma Plata Sur Agropecuaria S.A.,724619-1,Loma Plata,19,chaco,4584.01,ok,21
+15-01-0042-570-666,Hacienda Estancia Salto SRL,5992816-1,Villa Hayes,15,chaco,237.1,ok,18
+14-07-0074-783-163,Sociedad Rural Don Carlos S.A.,2500743-2,La Paloma,14,oriente,2050.78,ok,19
+16-01-0070-711-242,Cynthia Riveros,539669-5,Fuerte Olimpo,16,chaco,428.19,watch,52
+07-04-0049-997-930,Silvio Friesen,665918-4,Capitán Miranda,7,oriente,291.04,watch,41
+12-01-0068-042-752,Luis Villalba,586509-4,Pilar,12,central,238.03,breach,70
+19-02-0083-826-426,Sociedad Rural San Isidro SA,027621-2,Filadelfia,19,chaco,7414.7,watch,59
+07-02-0029-364-229,Lorena Ovelar,1724825-1,Carlos Antonio López,7,oriente,4188.97,watch,40
+07-08-0091-666-999,Cooperativa Agrícola Filadelfia Norte Soc. Rural Ltda,8333945-2,Hohenau,7,oriente,16566.19,watch,40
+16-01-0068-404-491,Edgar Aquino,600780-6,Fuerte Olimpo,16,chaco,6331.59,ok,15
+07-04-0059-001-795,Lorena Ovelar,827448-5,Capitán Miranda,7,oriente,1320.18,ok,0
+03-11-0004-967-569,Sociedad Rural San Pedro S.R.L.,5438404-6,Piribebuy,3,central,11834.91,ok,12
+10-08-0038-984-650,Hacienda Bella Unión S.A.,728326-8,Minga Guazú,10,oriente,432.19,breach,87
+10-01-0046-224-916,Silvio Klassen,1651827-5,Ciudad del Este,10,oriente,947.29,watch,59
+03-01-0012-496-742,Campos Loma Plata Sur Agropecuaria S.A.,8339019-8,Caacupé,3,central,2374.39,breach,82
+10-06-0093-731-228,Estancia San Rafael S.R.L.,6660993-5,Iruña,10,oriente,1812.8,ok,21
+19-02-0027-147-656,Hacienda Don Carlos SA,219467-2,Filadelfia,19,chaco,314.22,ok,5
+10-06-0068-754-050,Granja La Esperanza Soc. Rural Ltda,779827-0,Iruña,10,oriente,1422.34,ok,16
+05-15-0053-125-360,Marta Villalba,4558845-0,Yhú,5,oriente,7797.14,ok,18

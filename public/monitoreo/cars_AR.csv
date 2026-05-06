@@ -1,0 +1,151 @@
+car,owner,cpf_cnpj,muni,uf,region,ha,status,risk
+18.49.6.59657/00,Agropecuaria El Recreo S.R.L.,20-79937124-0,Goya,W,nea,2149.4,breach,72
+18.49.5.86736/00,Campos San Antonio Soc. Rural Ltda,20-05123828-2,Goya,W,nea,954.14,watch,42
+22.105.7.00886/00,Establecimiento Don Diego Soc. Rural Ltda,20-03875099-7,San Lorenzo,H,nea,355.3,ok,9
+42.21.1.90586/00,Valeria Ortiz,27-66319314-9,Capital,L,pampeana,731.02,watch,30
+86.28.7.58441/00,Diego Saubidet,20-48434437-5,Capital,G,noa,1632.06,breach,89
+06.105.2.87083/00,Joaquín Gómez,27-67632016-3,Bolívar,B,pampeana,3167.47,ok,14
+26.88.4.10564/00,Sociedad Rural Don Florencio SA,30-27588425-2,Sarmiento,U,patagonia,1099.6,breach,68
+06.231.9.42104/00,Gonzalo Larrea,27-09743953-3,Daireaux,B,pampeana,2683.5,ok,4
+06.595.7.15969/00,Sociedad Rural La Lucía Agropecuaria S.A.,30-38851606-0,Necochea,B,pampeana,1816.27,ok,12
+06.847.4.53521/00,Hacienda Don Florencio S.R.L.,20-61369681-6,Trenque Lauquen,B,pampeana,816.65,ok,28
+38.63.5.06098/00,Martín Quiroga,23-48016245-6,San Pedro,Y,noa,367.68,ok,16
+06.623.4.55022/00,Camila Magnasco,27-99809402-4,Pehuajó,B,pampeana,1361.49,ok,20
+90.70.4.70551/00,Cabaña La Carolina S.A.,30-94958887-9,Leales,T,noa,17922.94,watch,53
+30.88.0.60685/00,Valeria González,20-47826137-5,Paraná,E,pampeana,597.15,ok,0
+42.98.0.65133/00,Hacienda Santa Rosa SRL,30-11656670-1,Trenel,L,pampeana,313.28,ok,8
+26.105.5.71918/00,Cooperativa Agrícola San José S.A.,30-70241038-6,Tehuelches,U,patagonia,506.38,ok,18
+42.84.6.56272/00,Camila Castro,27-89373467-0,Quemú Quemú,L,pampeana,17080.1,breach,65
+06.203.9.63834/00,Hernán Lanusse,23-18227824-8,Coronel Suárez,B,pampeana,1876.21,ok,28
+30.21.3.89083/00,Lucía Martínez,20-18196001-3,Diamante,E,pampeana,6357.29,ok,14
+34.14.3.96856/00,Carolina Etcheverry,23-03926142-9,Bermejo,P,nea,3269.73,breach,69
+62.70.8.75985/00,Campos La Lucía SRL,30-63838065-7,Pichi Mahuida,R,patagonia,941.65,ok,7
+14.70.9.25192/00,Cabaña Los Cardales Agropecuaria S.A.,30-05151864-4,Marcos Juárez,X,pampeana,4206.27,watch,51
+42.21.6.02563/00,Diego Quiroga,20-15869232-2,Capital,L,pampeana,489.43,ok,27
+86.21.8.81537/00,Hacienda Don Mario SRL,30-59255562-5,Banda,G,noa,313.79,ok,1
+82.63.2.92706/00,Mercedes Roggio,27-80592962-2,Las Colonias,S,pampeana,1967.21,breach,82
+14.98.6.75339/00,Campos Los Sauces Agropecuaria S.A.,30-72787558-8,Río Segundo,X,pampeana,2226.42,ok,10
+86.95.5.27858/00,Inés Etcheverry,23-02838578-6,Robles,G,noa,2066.78,watch,50
+66.7.5.47887/00,Florencia Roggio,23-72400499-1,Anta,A,noa,3238.1,ok,8
+90.21.4.98182/00,Cabaña Don Florencio SRL,30-58414384-2,Burruyacú,T,noa,1703.23,ok,19
+58.7.6.80442/00,Soledad González,20-49035213-5,Añelo,Q,patagonia,290.28,ok,23
+54.49.5.37147/00,Granja La Lucía SA,30-33419182-5,Iguazú,N,nea,1814.31,ok,19
+50.105.5.42622/00,Soledad Magnasco,23-27136111-5,San Rafael,M,cuyo,372.91,watch,35
+30.49.8.05982/00,Cabaña Los Álamos Soc. Rural Ltda,23-27868011-2,Gualeguaychú,E,pampeana,679.47,ok,25
+26.88.4.33154/00,Federico Romero,27-13552157-0,Sarmiento,U,patagonia,6462.27,ok,14
+14.70.0.30548/00,Carolina Roggio,27-77221704-3,Marcos Juárez,X,pampeana,2149.27,ok,1
+14.49.9.00343/00,Soledad Sosa,23-14978403-6,General Roca,X,pampeana,6702.88,ok,3
+06.595.5.00978/00,Mercedes Quiroga,27-72343098-0,Necochea,B,pampeana,5421.19,ok,16
+74.88.3.61103/00,Valeria Echeverría,23-15415206-4,Pedernera,D,cuyo,852.13,ok,21
+54.49.8.72808/00,Establecimiento La Lechiguana Agropecuaria S.A.,30-54777252-2,Iguazú,N,nea,520.28,breach,67
+54.21.9.82622/00,Agropecuaria San Cayetano Agropecuaria S.A.,30-56046618-3,Eldorado,N,nea,219.57,ok,5
+14.105.1.05183/00,Agropecuaria Tres Lomas SA,30-98393010-3,Río Cuarto,X,pampeana,332.42,ok,23
+06.105.6.41708/00,Hacienda La Carolina SA,30-46537556-4,Bolívar,B,pampeana,575.0,ok,2
+74.88.0.06848/00,Granja El Recreo Agropecuaria S.A.,30-27109104-3,Pedernera,D,cuyo,4829.66,ok,20
+62.35.1.03241/00,Cooperativa Agrícola La Lechiguana SRL,30-05061497-3,General Roca,R,patagonia,819.47,watch,45
+22.7.2.43106/00,Ignacio Larrea,23-78686337-5,Almirante Brown,H,nea,2378.85,breach,79
+78.63.0.10393/00,Romina Saubidet,27-92937842-7,Magallanes,Z,patagonia,328.55,ok,19
+58.21.6.91545/00,Sociedad Rural Tres Lomas SA,30-02921851-5,Confluencia,Q,patagonia,161.9,breach,95
+30.88.0.56413/00,Mercedes Lanusse,20-27648350-3,Paraná,E,pampeana,5619.49,watch,36
+06.861.0.36690/00,Sociedad Rural San José S.A.,30-23166587-6,Tres Arroyos,B,pampeana,6710.77,ok,0
+18.35.0.56856/00,Pablo Martínez,23-44089268-7,Curuzú Cuatiá,W,nea,1169.79,ok,17
+30.14.8.69261/00,Estancia San Antonio S.R.L.,30-71138267-5,Concordia,E,pampeana,5886.09,breach,81
+06.861.4.35240/00,Juan Manuel Echeverría,20-37498941-3,Tres Arroyos,B,pampeana,3196.21,ok,1
+30.21.7.05895/00,Valeria Dietrich,23-22583132-3,Diamante,E,pampeana,2467.72,ok,28
+06.525.7.70054/00,Hacienda Don Diego S.A.,30-74490581-4,Lobería,B,pampeana,529.41,breach,96
+22.49.1.80339/00,Granja La Lucía Agropecuaria S.A.,30-70021765-9,General Güemes,H,nea,688.47,ok,8
+18.14.7.35866/00,Granja San José SA,30-59996504-7,Bella Vista,W,nea,384.66,ok,24
+82.84.6.94531/00,Cabaña Las Marías S.A.,30-26284987-7,Rosario,S,pampeana,314.42,watch,48
+06.623.3.24609/00,Establecimiento Santa Rosa Soc. Rural Ltda,27-71179808-9,Pehuajó,B,pampeana,1684.26,ok,21
+06.525.5.14627/00,Agropecuaria La Lucía S.A.,30-97848018-4,Lobería,B,pampeana,455.49,watch,46
+14.112.5.42357/00,Hernán Sánchez,27-65281685-0,Tercero Arriba,X,pampeana,599.99,ok,9
+50.105.8.19148/00,Lucía Sánchez,20-43842797-8,San Rafael,M,cuyo,4517.74,watch,31
+82.14.7.45299/00,Estancia San José SRL,30-09232719-3,Caseros,S,pampeana,20212.07,watch,35
+06.623.4.51712/00,Granja La Carolina SRL,30-28588424-7,Pehuajó,B,pampeana,3740.88,watch,51
+86.88.6.23091/00,Gonzalo Saubidet,27-99309728-9,Ojo de Agua,G,noa,309.34,ok,13
+82.14.1.87026/00,Tomás Álvarez,27-27028951-7,Caseros,S,pampeana,7834.76,ok,25
+42.21.0.22901/00,Diego Álvarez,23-75254599-1,Capital,L,pampeana,424.21,ok,14
+90.70.8.74064/00,Hacienda Don Diego Agropecuaria S.A.,30-70728679-0,Leales,T,noa,6601.92,ok,1
+58.21.6.03850/00,Campos San Cayetano SRL,30-75973832-0,Confluencia,Q,patagonia,8024.85,watch,57
+30.14.0.83136/00,Hacienda Tres Lomas SRL,30-73545494-8,Concordia,E,pampeana,2040.51,watch,50
+54.105.6.15679/00,Carolina Fernández,20-82339845-4,San Pedro,N,nea,442.56,ok,26
+90.70.6.61825/00,Estancia Don Diego S.A.,30-04622656-7,Leales,T,noa,596.28,ok,4
+50.70.7.59017/00,Gonzalo Cabrera,23-67116845-7,Maipú,M,cuyo,1924.85,breach,89
+42.70.3.98214/00,Juan Manuel Sánchez,27-46773782-6,Maracó,L,pampeana,7199.27,ok,25
+82.14.2.48086/00,Estancia El Algarrobo S.R.L.,30-82477109-3,Caseros,S,pampeana,595.97,breach,93
+30.21.2.19693/00,Estancia Bandera Argentina S.R.L.,30-56238692-2,Diamante,E,pampeana,1708.0,ok,20
+06.623.6.47525/00,Inés Dietrich,23-93103413-1,Pehuajó,B,pampeana,1873.33,watch,51
+42.84.7.09859/00,Granja La Esperanza S.R.L.,27-17549651-3,Quemú Quemú,L,pampeana,112.87,watch,59
+82.14.4.03447/00,Agropecuaria La Carolina SRL,30-28120679-7,Caseros,S,pampeana,201.38,ok,25
+38.63.2.68414/00,Campos Tres Lomas S.R.L.,27-90453017-4,San Pedro,Y,noa,1019.61,breach,94
+82.49.9.57015/00,Martín Sánchez,27-89325288-0,General López,S,pampeana,7074.16,ok,1
+62.70.4.34902/00,Cooperativa Agrícola La Lucía SRL,30-56527047-7,Pichi Mahuida,R,patagonia,6171.08,ok,11
+26.88.1.04054/00,Agustina Dietrich,23-58617932-7,Sarmiento,U,patagonia,9261.41,ok,12
+82.49.0.20539/00,Establecimiento San José S.R.L.,20-90422842-1,General López,S,pampeana,931.07,ok,23
+66.14.6.85161/00,Hacienda Las Marías S.R.L.,27-20549329-6,Orán,A,noa,153.12,ok,7
+86.21.4.21993/00,Campos Don Florencio SA,30-57473384-8,Banda,G,noa,428.31,ok,20
+66.15.9.10883/00,Cooperativa Agrícola La Lechiguana Agropecuaria S.A.,30-33918785-1,Rivadavia,A,noa,884.72,ok,16
+74.21.0.42232/00,Inés Castro,20-54494812-6,Belgrano,D,cuyo,7056.65,watch,51
+22.63.5.61014/00,Mercedes Méndez,27-11352909-6,Maipú,H,nea,468.36,ok,22
+26.88.4.10137/00,Federico Fernández,20-03236519-9,Sarmiento,U,patagonia,3005.88,watch,55
+30.105.4.71746/00,Cooperativa Agrícola San José Soc. Rural Ltda,30-24210249-9,Victoria,E,pampeana,16508.03,ok,2
+78.49.8.06174/00,Establecimiento Santa Rosa Soc. Rural Ltda,23-41951802-3,Lago Buenos Aires,Z,patagonia,4208.84,ok,14
+30.14.6.53287/00,Martín Acosta,20-42388496-9,Concordia,E,pampeana,104.5,ok,20
+82.21.2.77997/00,Martín Roggio,20-31243292-1,Castellanos,S,pampeana,2275.89,watch,49
+06.623.5.28922/00,Hacienda Estancia Vieja S.A.,30-69125177-8,Pehuajó,B,pampeana,2330.35,ok,3
+06.623.5.96401/00,Agropecuaria Tres Lomas Soc. Rural Ltda,23-47962757-0,Pehuajó,B,pampeana,1371.8,ok,23
+14.112.7.15182/00,Magdalena Dietrich,20-79359782-0,Tercero Arriba,X,pampeana,447.96,breach,74
+70.88.3.03161/00,Campos Don Diego Agropecuaria S.A.,30-32856914-6,Pocito,J,cuyo,1756.78,ok,23
+26.88.0.96902/00,Mercedes Aguirre,27-53926442-2,Sarmiento,U,patagonia,2349.97,breach,78
+06.203.7.49649/00,Hernán Martínez,20-86999386-7,Coronel Suárez,B,pampeana,1758.3,watch,60
+06.105.7.89611/00,Sociedad Rural Don Diego SRL,30-49985698-4,Bragado,B,pampeana,6080.04,watch,53
+58.21.1.53368/00,Hernán Romero,27-97062962-0,Confluencia,Q,patagonia,6514.86,ok,9
+06.105.1.04328/00,Martín Romero,20-20472779-0,Bragado,B,pampeana,18350.96,ok,24
+14.126.7.87429/00,Inés López,20-13990490-2,Unión,X,pampeana,2147.07,breach,94
+70.88.3.68876/00,Agustina Sánchez,20-25790507-2,Pocito,J,cuyo,1389.7,watch,45
+58.7.3.96522/00,Hacienda Estancia Vieja S.R.L.,30-93213348-0,Añelo,Q,patagonia,245.36,watch,41
+62.70.3.07562/00,Sociedad Rural El Recreo SRL,30-41913800-0,Pichi Mahuida,R,patagonia,579.38,ok,25
+18.35.1.79796/00,Campos Don Florencio SA,30-67243426-6,Curuzú Cuatiá,W,nea,2354.64,breach,90
+06.525.2.51354/00,Cabaña Don Diego SA,30-79911838-4,Lobería,B,pampeana,513.55,watch,49
+06.441.6.99854/00,Agropecuaria Los Cardales SRL,30-61939909-1,Junín,B,pampeana,452.42,ok,12
+54.21.2.84395/00,Nicolás Méndez,27-03067383-0,Eldorado,N,nea,2067.82,watch,37
+30.21.7.55719/00,Hacienda San Antonio SRL,30-13556909-2,Diamante,E,pampeana,270.81,ok,8
+70.7.3.39596/00,Camila Fernández,27-34074517-1,Albardón,J,cuyo,152.4,ok,6
+82.88.7.75841/00,Estancia Las Marías S.R.L.,30-41566765-2,San Cristóbal,S,pampeana,2934.1,watch,56
+06.203.8.83561/00,Cabaña Santa Rosa Agropecuaria S.A.,30-81693406-0,Coronel Suárez,B,pampeana,23653.1,watch,51
+82.14.2.99468/00,Pablo Sánchez,27-65648236-6,Caseros,S,pampeana,4171.31,ok,25
+50.70.5.65234/00,Federico Etcheverry,23-97311219-6,Maipú,M,cuyo,1071.52,watch,53
+42.21.9.35348/00,Mercedes Sánchez,27-12411824-4,Capital,L,pampeana,2320.14,watch,32
+82.84.2.71111/00,Lucía Torres,23-76615654-5,Rosario,S,pampeana,2014.72,ok,4
+50.49.0.17012/00,Agustina López,23-45892975-0,Junín,M,cuyo,601.28,breach,76
+58.21.1.21277/00,Campos Tres Lomas S.A.,30-55743132-9,Confluencia,Q,patagonia,829.4,ok,24
+06.105.7.31217/00,Sociedad Rural La Lechiguana Agropecuaria S.A.,30-68144739-4,Bragado,B,pampeana,450.95,breach,84
+86.28.7.84473/00,Joaquín Pérez,20-10943969-0,Capital,G,noa,6267.45,ok,2
+66.14.4.01938/00,Hacienda Las Acacias Soc. Rural Ltda,20-08267734-5,Orán,A,noa,7176.83,ok,5
+22.49.1.73936/00,Diego Astrada,27-83735403-3,General Güemes,H,nea,5536.44,watch,42
+14.98.1.55940/00,Ignacio Astrada,20-65423511-6,Río Segundo,X,pampeana,5449.25,breach,88
+62.35.2.44720/00,Florencia Echeverría,27-66706625-3,General Roca,R,patagonia,1772.26,watch,45
+70.88.7.61379/00,Belén Dietrich,23-38983640-3,Pocito,J,cuyo,542.14,ok,11
+18.88.1.25286/00,Hacienda San Cayetano SRL,30-49912513-4,Mercedes,W,nea,861.95,ok,5
+06.847.0.51531/00,Cooperativa Agrícola El Triángulo Agropecuaria S.A.,30-88067065-4,Trenque Lauquen,B,pampeana,6543.53,ok,1
+90.70.6.80002/00,Agropecuaria Los Álamos SA,30-65585239-8,Leales,T,noa,6921.81,ok,4
+18.14.9.32048/00,Cabaña Estancia Vieja S.A.,30-71753556-0,Bella Vista,W,nea,17845.43,ok,4
+18.35.3.51751/00,Sociedad Rural Don Mario SA,30-86688263-4,Curuzú Cuatiá,W,nea,2175.87,ok,12
+30.88.3.48734/00,Ignacio Dietrich,23-98687277-4,Paraná,E,pampeana,1955.74,ok,10
+06.791.8.68501/00,Hacienda El Recreo S.R.L.,20-30365414-5,Tandil,B,pampeana,3936.68,ok,8
+66.12.4.70168/00,Camila Martínez,20-59532787-7,Metán,A,noa,1057.38,ok,1
+82.84.6.23924/00,Establecimiento Bandera Argentina S.A.,30-35977468-8,Rosario,S,pampeana,329.91,ok,3
+78.49.4.16089/00,Joaquín Martínez,27-06868793-7,Lago Buenos Aires,Z,patagonia,6902.48,watch,49
+14.105.4.70076/00,Agustina Acosta,23-89178390-8,Río Cuarto,X,pampeana,805.13,watch,44
+18.35.5.19398/00,Carolina Saubidet,23-54793564-6,Curuzú Cuatiá,W,nea,479.16,ok,23
+14.98.3.43320/00,Hacienda Don Mario Soc. Rural Ltda,20-87214895-1,San Justo,X,pampeana,591.65,watch,54
+22.7.7.54121/00,Hernán López,20-62655110-4,Almirante Brown,H,nea,313.4,ok,13
+14.98.7.36026/00,Nicolás Astrada,27-10801326-7,Río Segundo,X,pampeana,283.02,breach,93
+14.98.0.47116/00,Martín Magnasco,23-10947775-2,San Justo,X,pampeana,1696.34,watch,34
+06.847.1.39005/00,Hacienda San José S.R.L.,20-58506431-7,Trenque Lauquen,B,pampeana,145.48,ok,2
+14.112.1.98327/00,Mercedes Romero,27-16560494-5,Tercero Arriba,X,pampeana,136.27,watch,41
+42.84.3.43161/00,Tomás Cabrera,20-58657809-1,Quemú Quemú,L,pampeana,6371.4,ok,5
+06.623.7.43671/00,Nicolás Dietrich,23-82175946-4,Pehuajó,B,pampeana,377.4,ok,22
+22.105.1.25457/00,Hacienda Los Cardales Agropecuaria S.A.,30-82507146-1,San Lorenzo,H,nea,5366.13,ok,3
+30.14.6.85574/00,Hernán Sánchez,20-63495788-5,Concordia,E,pampeana,1038.02,watch,40
+06.847.5.16808/00,Agropecuaria La Carolina S.R.L.,23-74680715-4,Trenque Lauquen,B,pampeana,702.99,ok,19
